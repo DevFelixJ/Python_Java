@@ -26,6 +26,6 @@ def leet_translator(text):
 
 
 
-hacker_name = input("Introduce tu nombre ")
+hacker_name = input("Introduce tu nombre")
 print("Tu nombre hacker es: " + leet_translator(hacker_name))
 
